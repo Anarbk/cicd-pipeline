@@ -41,6 +41,6 @@ pipeline {
 
   }
   environment {
-    DOCKER_IMAGE = 'plutobilly/cicd-pipeline'
+    DOCKER_IMAGE = 'tiahewan/ci-cd'
   }
 }
