@@ -2,7 +2,7 @@ pipeline {
     agent any
     environment {
         // Укажи здесь свое имя пользователя Docker Hub
-        DOCKER_USER = tianhewan
+        DOCKER_USER = tiahewan
         IMAGE_NAME = ci-cd
     }
  
